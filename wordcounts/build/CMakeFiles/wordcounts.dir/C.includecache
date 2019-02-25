@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lijunsun/workspace/classical_algorithms_practices/wordcounts/wordcounts.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+

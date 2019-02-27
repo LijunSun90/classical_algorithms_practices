@@ -2,6 +2,7 @@
 * Reverse a string. For example,
 *   Input: "I have a pen."
 *   Output: ".nep a evah I"
+*
 * Author: Lijun SUN
 * Date: Feb 27, 2019
 */

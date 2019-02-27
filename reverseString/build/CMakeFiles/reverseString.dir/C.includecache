@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lijunsun/workspace/classical_algorithms_practices/reverseString/reverseString.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
